@@ -1,2 +1,1 @@
-# privacy_policy
-privacy policys
+0xcafed00d.github.io
