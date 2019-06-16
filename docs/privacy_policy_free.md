@@ -5,7 +5,7 @@ This App is provided by 0xcafed00d Games as a Free app. This SERVICE is provided
 The Application does not collect or transmit any personally identifiable information about you, such as your name, address, phone number or email address.
 
 # Third Party Services
-This app is Hosted and Distributed on the Google Play Platform that may collect information used to identify you. Visit the Google privacy policy at this link: https://policies.google.com/privacy for more information. 0xcafed00d Games has no access to the personally identifiable collected by this service.  
+This app is Hosted and Distributed on the Google Play Platform that may collect information used to identify you. Visit the Google privacy policy at this link: [https://policies.google.com/privacy](https://policies.google.com/privacy) for more information. 0xcafed00d Games has no access to the personally identifiable collected by this service.  
 
 # Log Data
 In the unlikely event of a case of an error in the App, data is collected (Via the Google Play Services) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app, the time and date of your use of the Service. This data my be transferred and stored on Google Play Servers. 0xcafed00d Games has access to this data for the purposes of diagnosing problems with the service. This data is not passed to any other party.
